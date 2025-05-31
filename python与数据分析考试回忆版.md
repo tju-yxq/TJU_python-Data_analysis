@@ -27,14 +27,18 @@
 
 ![image-20250531171720205](https://github.com/user-attachments/assets/95f1c917-3969-4cc9-961d-0b01c2e7e0d1)
 
+11. Python控制语句块的方式：缩进
+12. 关于函数的判断正误：选正确的，我选的是“函数是为了完成特定任务”
+13. 函数无return时会返回什么：None
 
+还有两道是真忘了，一道是判断正误，我记得是选一个错的离谱的“无需创建”，还有一道是选一个关于数据的，我记得我选的是“统计数据”。
 ### （二）简答题（20分，4道）
 
 1. 大数据的技术特点和生产方式
    
    技术特点：5V（快速化、大量化、真实性、价值密度低，多样化）
 
-   生产方式：……
+   生产方式：日常生活生产
 
 3. python中内置序列的特征
 
@@ -58,7 +62,7 @@
 
 3. 房价预测：线性回归课件中的改编，加了一个pandas的独热编码（很美了）
 
-   印象中的答案："建筑……"，get_dummies()，mean,mean_houses,fit_transfomer，fit，predict，train_test_split，y_test，y_pred，coef_ 
+   印象中的答案："建筑年份"，get_dummies()，mean，mean_houses，fit_transfomer，fit，predict，train_test_split，drop，y_test，y_pred，coef_ 
 
 ### （四）综合分析题（20分，两道）
 
