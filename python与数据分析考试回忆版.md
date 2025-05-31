@@ -31,29 +31,32 @@
 ### （二）简答题（20分，4道）
 
 1. 大数据的技术特点和生产方式
+   
    技术特点：5V（快速化、大量化、真实性、价值密度低，多样化）
 
    生产方式：……
 
-2. python中内置序列的特征
+3. python中内置序列的特征
 
    元组、列表、字典、列表……自由发挥
 
-3. 不可见对象和可见对象的概念，其在函数参数传递时的不同
+4. 不可见对象和可见对象的概念，其在函数参数传递时的不同
+   
    ![image-20250531180100190](https://github.com/user-attachments/assets/5979823a-8e61-490e-a488-6110977fd1e4)
 
 
-4. 数据分析的基本流程
+6. 数据分析的基本流程
 
    ![image-20250531165704909](https://github.com/user-attachments/assets/311bc1ba-6a96-49dd-958c-5e4f76097327)
 
 
 ### （三）程序填空（30分，15空）
 
-1. 反转字符串：leetcode第541题
+1. 反转字符串：leetcode第541题反转字符串为相同的题干，但题目内容不同，要看长的版本
+   
    印象中的答案：left+=1，right-=1，reverse(i，j)，i+k-1，2k
 
-2. 房价预测：线性回归课件中的改编，加了一个pandas的独热编码（很美了）
+3. 房价预测：线性回归课件中的改编，加了一个pandas的独热编码（很美了）
 
    印象中的答案："建筑……"，get_dummies()，mean,mean_houses,fit_transfomer，fit，predict，train_test_split，y_test，y_pred，coef_ 
 
